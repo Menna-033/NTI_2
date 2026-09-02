@@ -1,9 +1,3 @@
-/*
- * GccApplication2.c
- *
- * Created: 9/2/2026 7:11:57 PM
- * Author : MU
- */ 
 
 #include <avr/io.h>
 
